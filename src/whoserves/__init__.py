@@ -3,11 +3,11 @@
 Early placeholder release. No measurement code yet, see https://anycast.org
 """
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 
 NOTICE = (
-    "whoserves 0.0.1 is an early placeholder. The open catchment tooling is in "
-    "development. Project home: https://anycast.org  Notes: https://anycast.dev/notes"
+    "whoserves 0.0.2 is an early placeholder. "
+    "Project home: https://anycast.org  Notes: https://anycast.dev/notes"
 )
 
 
