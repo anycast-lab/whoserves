@@ -5,7 +5,7 @@ site of an anycast service, over IPv4 and IPv6, using public RIPE Atlas
 measurements and the site identifiers the service returns (NSID,
 `hostname.bind`).
 
-**Status: early placeholder (0.0.1).** This release contains no measurement
+**Status: early placeholder (0.0.2).** This release contains no measurement
 code yet.
 
 Project home: <https://anycast.org> · Source: <https://github.com/anycast-lab/whoserves>
