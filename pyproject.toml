@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "whoserves"
-version = "0.0.1"
-description = "Who serves whom: measure anycast catchments from the outside (RIPE Atlas, IPv4 and IPv6). Early placeholder, tooling in development."
+version = "0.0.2"
+description = "Who serves whom: measure anycast catchments from the outside (RIPE Atlas, IPv4 and IPv6). Early placeholder."
 readme = "README.md"
 license = "Apache-2.0"
 requires-python = ">=3.10"
